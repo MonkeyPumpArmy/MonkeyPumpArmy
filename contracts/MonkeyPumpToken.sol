@@ -17,7 +17,7 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 /// @custom:metadata Deployment Date: 25-Jan-2025
 /// @custom:metadata Network: Polygon (POL)
 /// @custom:metadata Disclaimer: $MNKY is a meme coin with no inherent financial value or guarantees of returns. It is designed solely for entertainment and community engagement.
-/// @custom:metadata Logo URI: https://raw.githubusercontent.com/MonkeyPumpArmy/main/assets/mnky-logo.png
+/// @custom:metadata Logo URI: https://raw.githubusercontent.com/MonkeyPumpArmy/MonkeyPumpArmy/main/assets/mnky-logo.png
 /// @custom:metadata Description:
 /// - Monkey Pump ($MNKY) is the ultimate community-driven meme coin designed for fun, engagement, and epic pumps to the moon!
 /// - It celebrates humor, community, and the joy of being part of a bold movement.
